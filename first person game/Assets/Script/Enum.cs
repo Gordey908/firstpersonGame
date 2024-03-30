@@ -8,7 +8,7 @@ public enum ToolTypes
     PICKAXE = 1,
     SWORD = 4,
 }
-public enum ToolMaterias
+public enum ToolMaterials
 {
     STONE = 1,
     IRON = 2,
